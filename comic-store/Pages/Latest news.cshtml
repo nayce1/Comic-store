@@ -1,0 +1,109 @@
+﻿@page
+@model SLD521.Pages.Latest_newsModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest News</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+            h1 {
+        text-align: center;
+        font-size: 24px;
+        color: #333;
+    }
+
+   
+
+
+    /* Style for the list of favorite items */
+    h2 {
+        margin-top: 20px;
+        font-size: 18px;
+        color: #333;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        li {
+            margin: 5px 0;
+            font-size: 16px;
+            color: #007BFF;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .news-article {
+            margin-bottom: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+            .news-article h2 {
+                font-size: 24px;
+                margin-bottom: 10px;
+            }
+
+            .news-article p {
+                font-size: 16px;
+                line-height: 1.6;
+            }
+
+            .news-article .date {
+                color: #777;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Latest News</h1>
+    </header>
+
+    <div class="container">
+        <!-- News Article 1 -->
+        <div class="news-article">
+            <img src="~/css/image-31.jpg" alt="Item 1 Image" width="100" height="100">
+            <h2>Eminance in shadow 2</h2>
+            <p>The captivating anime series follows the story of Cid Kageno, a young boy with aspirations to rule the world from the shadows. However, his dreams are cut short when he dies during his training after getting hit by a truck. But his story takes an unexpected twist when he is reincarnated into a fantasy world as Shadow</p>
+            <p class="date">Published on: September 20, 2023</p>
+        </div>
+
+        <!-- News Article 2 -->
+        <div class="news-article">
+            <img src="~/css/erased-featured.jpg" alt="Item 1 Image" width="100" height="100">
+            <h2>Erased</h2>
+            <p>Erased follows the Story of Satoru Fujinuma who is a 29 year old aspiring manga artist with the ability to travel backwards in time to prevent terrible things from happening. After the murder of a loved on he is launched back further in time than he has ever gone to prevent the tragedy from taking place.</p>
+            <p class="date">Published on: September 19, 2023</p>
+        </div>
+
+        <!-- Add more news articles as needed -->
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,180 @@
+﻿@page
+@model SLD521.Pages.favouratesModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorites Example</title>
+    <style>
+    /* Style for the heading */
+    h1 {
+        text-align: center;
+        font-size: 24px;
+        color: #333;
+    }
+
+    /* Style for each item */
+    .item {
+        margin: 10px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f9f9f9;
+    }
+
+    /* Style for the buttons */
+    button {
+        padding: 5px 10px;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* Style for the list of favorite items */
+    h2 {
+        margin-top: 20px;
+        font-size: 18px;
+        color: #333;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    li {
+        margin: 5px 0;
+        font-size: 16px;
+        color: #007BFF;
+    }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        ::-webkit-scrollbar {
+            width: 10px; /* Set the width of the scrollbar */
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: #007BFF; /* Color of the scrollbar thumb */
+            border-radius: 5px; /* Rounded corners for the thumb */
+        }
+
+            ::-webkit-scrollbar-thumb:hover {
+                background-color: #0056b3; /* Color on hover */
+            }
+
+        ::-webkit-scrollbar-track {
+            background-color: #f0f0f0; /* Color of the scrollbar track */
+        }
+</style>
+
+</head>
+
+<body>
+    <h1> Favourite Comic</h1>
+
+    <div class="item">
+        <img src="~/css/FYO26i8WIAAt3Wp.jpeg" alt="Item 1 Image" width="100" height="100">
+        <span>Jujutsu kaisen</span>
+        <button onclick="toggleFavorite('The story of Jujutsu Kaisen follows high school student Yuji Itadori as he joins a secret organization of sorcerers in order to kill a powerful Curse named Ryomen Sukuna, of whom Yuji becomes the host.')">Describtion</button>
+    </div>
+
+    
+    <div class="item">
+        <img src="~/css/R.jpeg" alt="Item 1 Image" width="100" height="100">
+        <span>Batman</span>
+        <button onclick="toggleFavorite('After witnessing the murder of his parents Dr. Thomas Wayne and Martha Wayne as a child, he swore vengeance against criminals, an oath tempered by a sense of justice. Bruce Wayne trains himself physically and intellectually and crafts a bat-inspired personal to fight crime.')">Describtion</button>
+    </div>
+
+    <div class="item">
+        <img src="~/css/images.jpeg" alt="Item 1 Image" width="100" height="100">
+        <span>Spider man</span>
+        <button onclick="toggleFavorite('American teenager Peter Parker, a poor sickly orphan, is bitten by a radioactive spider. As a result of the bite, he gains superhuman strength, speed, and agility, along with the ability to cling to walls, turning him into Spider-Man.')">Describtion</button>
+    </div>
+    <div class="item">
+        <img src="~/css/digital-standard.jpg" alt="Item 1 Image" width="100" height="100">
+        <span>Demon slayer</span>
+        <button onclick="toggleFavorite('A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.')">Describtion</button>
+    </div>
+    <h2> Comic Discribtion:</h2>
+    <ul id="favoritesList"></ul>
+    
+
+  
+
+    <script>
+        // JavaScript code to handle favorites
+        function toggleFavorite(itemId) {
+            const favoritesList = JSON.parse(localStorage.getItem('favorites')) || [];
+
+            if (favoritesList.includes(itemId)) {
+                // Item is already in favorites, so remove it
+                const index = favoritesList.indexOf(itemId);
+                if (index > -1) {
+                    favoritesList.splice(index, 1);
+                }
+            } else {
+                // Item is not in favorites, so add it
+                favoritesList.push(itemId);
+            }
+
+            // Save the updated favorites list to local storage
+            localStorage.setItem('favorites', JSON.stringify(favoritesList));
+
+            // Refresh the favorites list display
+            displayFavorites();
+        }
+
+        function displayFavorites() {
+            const favoritesList = JSON.parse(localStorage.getItem('favorites')) || [];
+            const favoritesListElement = document.getElementById('favoritesList');
+
+            // Clear the existing list
+            favoritesListElement.innerHTML = '';
+
+            // Display the updated list of favorite items
+            favoritesList.forEach((itemId) => {
+                const listItem = document.createElement('li');
+                listItem.textContent = itemId;
+                favoritesListElement.appendChild(listItem);
+            });
+        }
+
+        // Initial display of favorites
+        displayFavorites();
+        displayFavorites();
+        // Clear favorites when the page loads
+        localStorage.removeItem('favorites');
+
+        // Initial display of favorites
+        displayFavorites();
+
+    </script>
+</body>
+</html>
+

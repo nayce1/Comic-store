@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SLD521.props" />
+</Project>

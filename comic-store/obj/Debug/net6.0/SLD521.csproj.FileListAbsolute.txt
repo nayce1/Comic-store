@@ -1,0 +1,62 @@
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\appsettings.json
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\SLD521.staticwebassets.runtime.json
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\SLD521.exe
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\SLD521.deps.json
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\SLD521.runtimeconfig.json
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\SLD521.dll
+C:\Users\unath\source\repos\SLD521\SLD521\bin\Debug\net6.0\SLD521.pdb
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.csproj.AssemblyReference.cache
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.AssemblyInfoInputs.cache
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.AssemblyInfo.cs
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.csproj.CoreCompileInputs.cache
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.RazorAssemblyInfo.cache
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.RazorAssemblyInfo.cs
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.SLD521.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.build.SLD521.props
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SLD521.props
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SLD521.props
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\scopedcss\bundle\SLD521.styles.css
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\scopedcss\projectbundle\SLD521.bundle.scp.css
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.dll
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\refint\SLD521.dll
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.pdb
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\SLD521.genruntimeconfig.cache
+C:\Users\unath\source\repos\SLD521\SLD521\obj\Debug\net6.0\ref\SLD521.dll
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\appsettings.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\SLD521.staticwebassets.runtime.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\SLD521.exe
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\SLD521.deps.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\SLD521.runtimeconfig.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\SLD521.dll
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\bin\Debug\net6.0\SLD521.pdb
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.csproj.AssemblyReference.cache
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.AssemblyInfoInputs.cache
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.AssemblyInfo.cs
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.csproj.CoreCompileInputs.cache
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.RazorAssemblyInfo.cache
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.RazorAssemblyInfo.cs
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.SLD521.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.build.SLD521.props
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SLD521.props
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SLD521.props
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\scopedcss\bundle\SLD521.styles.css
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\scopedcss\projectbundle\SLD521.bundle.scp.css
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.dll
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\refint\SLD521.dll
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.pdb
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\SLD521.genruntimeconfig.cache
+C:\Users\unath\OneDrive\Documents\year 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\UNATHI_MAMAKOKO_20220677_SLD521_FA 2\SLD521\SLD521\obj\Debug\net6.0\ref\SLD521.dll
